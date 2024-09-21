@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 **Computer Science Graduate Student at Syracuse University | Software Engineer | Full-stack Developer**
 
-![Profile Views]([https://komarev.com/ghpvc/?username=pratiksatpute7&color=blueviolet&style=flat-square]) 
+![Profile Views](https://komarev.com/ghpvc/?username=pratiksatpute7)
 
 - 👯 I’m open to collaborating on projects related to **Web Development**, **Machine Learning**, and **Cloud Computing**.
 - 💬 Ask me about **JavaScript, Angular, React.js, Python**, or anything related to **full-stack development**.
