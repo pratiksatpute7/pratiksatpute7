@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there, I'm Pratik Vijaykumar Satpute 👋
+
+**Computer Science Graduate Student at Syracuse University | Software Engineer | Full-stack Developer**
+
+![Profile Views]([https://komarev.com/ghpvc/?username=pratiksatpute7&color=blueviolet&style=flat-square]) 
+
+- 👯 I’m open to collaborating on projects related to **Web Development**, **Machine Learning**, and **Cloud Computing**.
+- 💬 Ask me about **JavaScript, Angular, React.js, Python**, or anything related to **full-stack development**.
+- 📫 How to reach me: [pvsatput@syr.edu](mailto:pvsatput@syr.edu)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm passionate about creating user-friendly web applications and optimizing systems for performance and scalability.
+
